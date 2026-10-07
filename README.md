@@ -1,6 +1,6 @@
-# AlphaBorderJS
+# AlphaBorder
 
-[AlphaBorderJS](https://kageryo.github.io/AlphaBorderJS/) is a simple web tool for generating luma key transparency and glowing stroke effects on images with a black background. Just drag and drop your image, adjust the sliders, and export the result as a PNG.
+[AlphaBorder](https://kageryo.github.io/AlphaBorder/) is a simple web tool for generating luma key transparency and glowing stroke effects on images with a black background. Just drag and drop your image, adjust the sliders, and export the result as a PNG.
 
 ## Features
 - Luma keying (removes black background)
@@ -22,6 +22,4 @@
 - No image is uploaded to any server; all processing is local.
 
 ## License
-MIT License
-
-Made by Chien-Hsun Chang
+MIT License, Copyright © 2026 Chien-Hsun Chang
