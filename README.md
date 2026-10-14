@@ -7,7 +7,7 @@
 - Adjustable stroke width and glow radius
 - Custom glow color
 - Live preview
-- Export as PNG (keeps original image size)
+- Export as PNG with extra padding for glow and stroke effects
 - All UI support Mandarin, English, Japanese
 
 ## Usage
